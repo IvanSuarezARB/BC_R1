@@ -1,0 +1,26 @@
+{
+  "id": "6f841569-22f2-460e-b724-69c9db1831b5",
+  "name": "ARB_R1",
+  "publisher": "Arbentia",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject5.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
