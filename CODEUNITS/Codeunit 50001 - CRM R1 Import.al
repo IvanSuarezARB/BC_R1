@@ -45,6 +45,7 @@ codeunit 50001 "CRM R1 Import"
         l_InStream: InStream;
         l_File: Text;
         l_FileText: BigText;
+
         l_CRMR1FileHeader: Record "CRM R1 File Header";
     begin
 
